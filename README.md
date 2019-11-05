@@ -1,2 +1,2 @@
 # DeepWalk
-Learn Node Embeddings from DeepWalk
+Learn Node Embeddings from Graphs using DeepWalk algorithm.
